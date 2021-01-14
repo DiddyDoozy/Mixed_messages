@@ -1,8 +1,6 @@
 const verbs = ['run', 'walk', 'drive', 'dance', 'scream', 'joust', 'flip', 'lift','scissor'];
 const identifiers = ['this', 'that','my','your','the'];
 
-let randNums = [0,0,0,0,0,0,0,0,0,0];
-
 const nouns = ['cat','moose','hoe','Lando','girlfriend','johnson'];
 
 const adjectives = ['hard','soft','weird','strange','cute','nasty','pretty','fat','dumb','thicc'];
